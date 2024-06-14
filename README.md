@@ -79,11 +79,11 @@
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ArjunRajput" style="margin-bottom: 20px;">
   </a>
 </p>
-<br><br>
+<br><br><br><br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-1431&show_icons=true&locale=en&layout=compact&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
-</p>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-1431&show_icons=true&locale=en&layout=compact&theme=dark" alt="arjun-1431">
+</div>
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-1431&show_icons=true&locale=en&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
