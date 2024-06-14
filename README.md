@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Singh</h1>
+<div align="center" > <img src ="github-header-image.png"></div>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-1431&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-1431" /> </p>
