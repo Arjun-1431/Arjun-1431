@@ -81,14 +81,14 @@
 </p>
 <br><br><br><br>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-1431&show_icons=true&locale=en&layout=compact&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
 </div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-1431&show_icons=true&locale=en&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
+<div align="center" style="margin: 20px 0;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-1431&show_icons=true&locale=en&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
 </div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="center" style="margin: 20px 0;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-1431&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
 </div>
