@@ -81,7 +81,8 @@
 </p>
 <br><br><br><br>
 
-<div align="center" style="margin: 20px 0;">
+
+<div align="row" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-1431&show_icons=true&locale=en&layout=compact&theme=dark" alt="arjun-1431" style="margin-bottom: 20px;">
 </div>
 
