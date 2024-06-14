@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently working on TechiesShubhdeep it solutions [Real-estate](https://github.com/Arjun-1431/Real-estate.git)
 
-- 🌱 I’m currently learning **React js , Express js**
+- 🌱 I’m currently learning **React js , Express js , , Node js , MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arjun-1431](https://github.com/Arjun-1431)
 
 - 💬 Ask me about **React js , Node js , Express js , MongoDB**
 
 - 📫 How to reach me **arjunsingh32085@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AwUiErqZdnKHZ1nThtA-Vp3kpY-5lFdi/view?usp=sharing](https://drive.google.com/file/d/1AwUiErqZdnKHZ1nThtA-Vp3kpY-5lFdi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
